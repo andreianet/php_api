@@ -24,4 +24,4 @@ Endpoints utilizados:
 
 Ferramenta utilizada para os endpoints:
 
-[]https://resttesttest.com/[]
+[https://resttesttest.com/]
